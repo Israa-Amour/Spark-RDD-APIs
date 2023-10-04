@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: dev.ludovic.netlib:lapack:3.0.3:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/dev.ludovic.netlib/lapack/jars/lapack-3.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/dev.ludovic.netlib/lapack/srcs/lapack-3.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
